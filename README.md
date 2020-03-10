@@ -1,2 +1,2 @@
 # app_ionic_components
- curse of ionic
+ course of ionic
